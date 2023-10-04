@@ -12,7 +12,7 @@ SVC is well suited for binary classification of sentiment analysis<br>
 
 **Investment strategy with LDA classifier and sentiment analysis:**<br>
 LDA is well suited for linear and binary data, and adds a dimentionality reduction feature to classification of sentiment analysis<br>
-<img src="Resources/LDA.png" alt="LDA with sentiment data" width="600"/>
+<img src="Resources/Alt_Model_LDA.png" alt="LDA with sentiment data" width="600"/>
 
 ### Presentation
 [Project 2](Project_2-Group_2.pptx)
