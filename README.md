@@ -22,8 +22,8 @@ LDA is well suited for linear and binary data, and adds a dimentionality reducti
 [Data Construction](Branches/Joe.ipynb)<br>
 [SVC Model](Branches/Alejandra.ipynb)<br>
 [LDA Model](Branches/Edward.ipynb)<br>
-[Naive Bayes](FurtherExperimentation/Naive_Bayes.ipynb)
-[Experiment](FurtherExperimentation/experiment_Alejandra.ipynb)
+[Naive Bayes](FurtherExperimentation/Naive_Bayes.ipynb)<br>
+[Experiment](FurtherExperimentation/experiment_Alejandra.ipynb)<br>
 
 
 ### References
